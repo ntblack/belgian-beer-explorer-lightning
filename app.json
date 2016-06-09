@@ -5,7 +5,7 @@
   ],
   "buildpacks": [
     {
-      "url": "https://github.com/ntblack/force-com-buildpack.git"
+      "url": "https://github.com/ntblack/force-com-buildpack"
     }
   ],
   "env": {
